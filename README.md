@@ -1,6 +1,7 @@
 # littlepantry
 Agentic Recipe Generator OpenAI x Tavily Search
 
+[Langchain stuctured output example documentation](https://docs.langchain.com/oss/python/langchain/structured-output)
 ```python
 from langchain.agents import create_agent
 from langchain_tavily import TavilySearch
