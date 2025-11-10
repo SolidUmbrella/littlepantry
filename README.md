@@ -1,6 +1,10 @@
 # littlepantry
 Agentic Recipe Generator OpenAI x Tavily Search
 
+Structured output using libraries like Pydantic are helpful in creating reliable api responses for data driven applications.
+ 
+Demo project.
+
 [Langchain stuctured output example documentation](https://docs.langchain.com/oss/python/langchain/structured-output)
 ```python
 from langchain.agents import create_agent
